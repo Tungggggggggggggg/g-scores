@@ -9,7 +9,7 @@ G-Scores is a Laravel application focused on real-world backend concerns:
 
 ## Live demo
 
-https://g-scores-3j0j.onrender.com/
+https://g-scores-rwtd.onrender.com/
 
 ## Table of contents
 
