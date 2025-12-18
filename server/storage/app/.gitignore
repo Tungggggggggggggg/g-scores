@@ -1,0 +1,7 @@
+*
+!dataset/
+dataset/*
+!dataset/.gitkeep
+!private/
+!public/
+!.gitignore
